@@ -1,13 +1,12 @@
 body{
-    background-image: url(fundo.png);
+    background-image: url(/img/fundo.png);
     background-color: #e4f2e4;
     margin: 8px;
     background-repeat: no-repeat;
     background-position: center top;
     background-attachment:fixed;
     display: block;
-
-    
+ 
 }
 .conteudo{
     background-color:  #8c5664;
