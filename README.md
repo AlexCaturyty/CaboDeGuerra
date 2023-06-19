@@ -4,7 +4,7 @@
 
 ## 🖥 Projeto
 
-Esse é um projeto Web para mostrar a histório do cabo de guerra.
+Esse é um projeto Web para mostrar a histórico do cabo de guerra.
 
 ## 🚀 Tecnologias
 
